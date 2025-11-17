@@ -36,11 +36,11 @@ const geminiFeaturesList = [
 ];
 
 const GeminiFeatureCard: React.FC<{ title: string, description: string, model: string }> = ({ title, description, model }) => (
-    <div className="bg-white p-6 rounded-lg shadow-md border border-gray-200 hover:shadow-lg hover:border-primary transition-all duration-300">
+    <div className="bg-violet-50 p-6 rounded-lg shadow-md border border-violet-200 hover:shadow-lg hover:border-primary transition-all duration-300">
         <h3 className="text-xl font-bold text-gray-800 mb-2">{title}</h3>
         <p className="text-gray-600 mb-4">{description}</p>
         <div className="mt-auto">
-          <p className="text-xs text-gray-500 font-mono bg-gray-100 p-2 rounded">
+          <p className="text-xs text-gray-500 font-mono bg-violet-100 p-2 rounded">
             Powered by: <span className="font-semibold text-primary">{model}</span>
           </p>
         </div>
