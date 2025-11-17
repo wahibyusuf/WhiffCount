@@ -10,7 +10,7 @@ const geminiFeaturesList = [
   },
   {
     title: "In-Depth Quitting Plans",
-    description: "Receive a comprehensive, personalized quitting strategy by analyzing your puff data. Gemini thinks deeply about your habits to create a plan that works for you.",
+    description: "Receive a comprehensive, personalized quitting strategy by analyzing your whiff data. Gemini thinks deeply about your habits to create a plan that works for you.",
     model: "gemini-2.5-pro with Thinking Mode"
   },
   {
