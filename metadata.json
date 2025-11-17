@@ -1,0 +1,5 @@
+{
+  "name": "WhiffCount",
+  "description": "WhiffCount is a free application dedicated to helping you quit vaping, powered by Gemini AI. The app keeps track of your puffs and nicotine intake to make quitting easier with personalized insights, an AI coach, and motivational content generation.",
+  "requestFramePermissions": []
+}
