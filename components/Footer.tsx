@@ -1,3 +1,4 @@
+
 import React from 'react';
 import { AppStoreIcon, GooglePlayIcon } from './Icons';
 
@@ -10,7 +11,7 @@ const Footer: React.FC = () => {
                  <h3 className="text-2xl font-bold">
                     <span className="text-primary">Whiff</span><span className="text-red-500">Count</span>
                  </h3>
-                 <p className="text-gray-400 mt-2">Your AI companion to quit vaping for good.</p>
+                 <p className="text-gray-400 mt-2">Your AI companion to help quit vaping for life.</p>
             </div>
             <div>
                 <h4 className="font-semibold text-lg mb-4">Quick Links</h4>
@@ -33,7 +34,7 @@ const Footer: React.FC = () => {
             </div>
         </div>
         <div className="mt-12 border-t border-gray-700 pt-8 text-center text-gray-500 text-sm">
-          <p>&copy; {new Date().getFullYear()} WhiffCount. All rights reserved.</p>
+          <p>&copy; {new Date().getFullYear()} WhiffCount LLC. All rights reserved.</p>
         </div>
       </div>
     </footer>
