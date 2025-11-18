@@ -14,7 +14,7 @@ const Hero: React.FC = () => {
                         The Premier Quit Vaping App
                     </h1>
                     <p className="mt-4 text-lg md:text-xl text-blue-100 max-w-xl mx-auto md:mx-0">
-                        WhiffCount is a free application devoted to helping you quit vaping. The app keeps track of your whiffs and nicotine intake to make quitting simpler.
+                        WhiffCount is a free application devoted to helping you quit vaping. The app records your whiffs and nicotine intakes to make quitting simpler.
                     </p>
                     <div className="mt-8 flex justify-center md:justify-start space-x-4">
                         <a href="#" className="transition-transform hover:scale-105">
